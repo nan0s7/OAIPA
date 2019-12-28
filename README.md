@@ -7,7 +7,7 @@ Plosive         | p b |     |     | t d |     | \ / | c - | k g | q G |     | ?
 Nasal           |   m |   M |     |   n |     |   - |   - |  ng |   N |     |
 Trill           |   B |     |     |   r |     |     |     |     |   R |     |
 Tap, flap       |     |   - |     |   - |     |   - |     |     |     |     |
-Fricative       | F V | f v | T D | s z | S Z | $ 2 | - - | x - | X K | - 9 | h -
+Fricative       | F V | f v | Th T| s z | S Z | $ 2 | - - | x - | X K | - 9 | h -
 Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
 Approximate     |     |   - |     |   J |     |   { |   j |   - |     |     |
 Lateral approx. |     |     |     |   l |     |   - |   - |   L |     |     |
@@ -17,10 +17,10 @@ Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 Close          | i y |     | 1 - |     | W u
 Half close-mid |     | I Y |     |   U |
 Close-mid      | e 0 |     | - - |     | - o
-Half open-mid  |     |     | -   |     |
-Open-mid       | E - |     | 3 - |     | ^ O
-Half open      | -   |     | -   |     |
-Open           | a - |     |     |     | - -
+Half open-mid  |     |     |  @  |     |
+Open-mid       | E oe|     | 3 - |     | ^ O
+Half open      | ae  |     | -   |     |
+Open           | a OE|     |     |     | A D
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
@@ -39,17 +39,23 @@ Open           | a - |     |     |     | - -
 ### Changed based on the appearance of the Latin alphabet counterparts
 #### Vowels
 - 0 [zero] (front close-mid rounded vowel)
-- E (front open-mid vowel)
-- 1 (central close vowel)
-- 3 (central open-mid vowel)
-- W (back close vowel)
-- U (near-back near-close vowel)
-- ^ (back open-mid vowel)
-- O [capital o] (back open-mid rounded vowel)
+- E (front open-mid)
+- oe (rounded front open-mid)
+- ae (front half open)
+- OE (rounded front open)
+- 1 (central close)
+- @ (central half open-mid)
+- 3 (central open-mid)
+- W (back close)
+- U (near-back near-close)
+- ^ (back open-mid)
+- O [capital o] (rounded back open-mid)
+- A (back open)
+- D (rounded back open)
 #### Pulmonic consonants
 - M (voiced labiodental nasal)
-- T (dental fricative)
-- D (voiced dental fricative)
+- Th (dental fricative)
+- T (voiced dental fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
