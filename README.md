@@ -1,6 +1,11 @@
 # OAIPA
 An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
+Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+Nasal |   m |   - | |   n | |   - | | -   |   - | | 
+Plosive | p b | | | t d | | - - | c - | k g | q G | - | ? -
+
 ### Unchanged from IPA
 - a, e, i, o, u, y
 - b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, x, z
