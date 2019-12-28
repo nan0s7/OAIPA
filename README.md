@@ -12,7 +12,7 @@ Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
 Approximate     |     |   - |     |   - |     |   - |   j |   - |     |     |
 Lateral approx. |     |     |     |   l |     |   - |   - |   - |     |     |
 
-Vowels | Front | | Central | | Back
+Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
 Close          | i y |     | - - |     | W u
 Half close-mid |     | I Y |     |   U |
