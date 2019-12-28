@@ -12,6 +12,16 @@ Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
 Approximate     |     |   - |     |   - |     |   - |   j |   - |     |     |
 Lateral approx. |     |     |     |   l |     |   - |   - |   - |     |     |
 
+Vowels | Front | | Central | | Back
+--- | :---: | :---: | :---: | :---: | :---:
+Close     | i y |     | - - |     | W u
+          |     | I Y |     |   U |
+Close-mid | e 0 |     | - - |     | - o
+          |     |     | -   |     |
+Open-mid  | E - |     | 3 - |     | ^ O
+          | -   |     | -   |     |
+Open      | a - |     |     |     | - -
+
 ### Unchanged from IPA
 - a, e, i, o, u, y
 - b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, x, z
