@@ -14,13 +14,13 @@ Lateral approx. |     |     |     |   l |     |   - |   - |   - |     |     |
 
 Vowels | Front | | Central | | Back
 --- | :---: | :---: | :---: | :---: | :---:
-Close     | i y |     | - - |     | W u
-          |     | I Y |     |   U |
-Close-mid | e 0 |     | - - |     | - o
-          |     |     | -   |     |
-Open-mid  | E - |     | 3 - |     | ^ O
-          | -   |     | -   |     |
-Open      | a - |     |     |     | - -
+Close          | i y |     | - - |     | W u
+Half close-mid |     | I Y |     |   U |
+Close-mid      | e 0 |     | - - |     | - o
+Half open-mid  |     |     | -   |     |
+Open-mid       | E - |     | 3 - |     | ^ O
+Half open      | -   |     | -   |     |
+Open           | a - |     |     |     | - -
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
