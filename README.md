@@ -3,11 +3,11 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |     |     | t d |     | - - | c - | k g | q G |     | ?
-Nasal           |   m |   - |     |   n |     |   - |   - |   - |   N |     |
+Plosive         | p b |     |     | t d |     | T - | c - | k g | q G |     | ?
+Nasal           |   m |   M |     |   n |     |   - |   - |   - |   N |     |
 Trill           |   B |     |     |   r |     |     |     |     |   R |     |
 Tap, flap       |     |   - |     |   - |     |   - |     |     |     |     |
-Fricative       | F V | f v | - - | s z | S Z | $ 2 | - - | x - | X K | - 9 | h -
+Fricative       | F V | f v | @ # | s z | S Z | $ 2 | - - | x - | X K | - 9 | h -
 Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
 Approximate     |     |   - |     |   J |     |   - |   j |   - |     |     |
 Lateral approx. |     |     |     |   l |     |   - |   - |   L |     |     |
@@ -46,16 +46,20 @@ Open           | a - |     |     |     | - -
 - ^ (back open-mid vowel)
 - O [capital o] (back open-mid rounded vowel)
 #### Pulmonic consonants
+- M (voiced labiodental nasal)
+- @ (dental fricative)
+- # (voiced dental fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
+- T (retroflex plosive)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - X (uvular fricative)
 - K (voiced uvular fricative)
 - ? (glottal stop/plosive)
 #### Other sounds/symbols
-- M (voiceless labialised velar approximant)
+- ~~M (voiceless labialised velar approximant)~~
 - H (voiceless epiglottal fricative)
 - "-" [without quotes; a single dash] (affricate or double articulation marker, placed between two letters)
 #### Suprasegmentals
