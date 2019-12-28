@@ -7,10 +7,10 @@ Plosive         | p b |     |     | t d |     | - - | c - | k g | q G |     | ?
 Nasal           |   m |   - |     |   n |     |   - |   - |   - |   - |     |
 Trill           |   - |     |     |   r |     |     |     |     |   - |     |
 Tap, flap       |     |   - |     |   - |     |   - |     |     |     |     |
-Fricative       | F V | f v | - - | s z | S Z | - - | - - | x - | - - | - - | h -
+Fricative       | F V | f v | - - | s z | S Z | $ 2 | - - | x - | - - | - - | h -
 Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
 Approximate     |     |   - |     |   - |     |   - |   j |   - |     |     |
-Lateral approx. |     |     |     |   l |     |   - |   - |   - |     |     |
+Lateral approx. |     |     |     |   l |     |   - |   - |   L |     |     |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
