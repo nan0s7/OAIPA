@@ -68,7 +68,7 @@ Open           | a - |     |     |     | - -
 - , (secondary stress)
 - : (long vowel)
 - ; (half-long vowel)
--  (extra short vowel)
+- " (extra short vowel)
 - | (minor foot break)
 - || (major intonation break)
 - . (syllable break)
