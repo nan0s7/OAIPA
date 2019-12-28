@@ -31,10 +31,12 @@ Open           | a OE|     |     |     | A D
 ### Unchanged besides size and or font
 - I, Y
 - B, G, N, L, R
+- H
 
 ### Changed based on the sound of their Latin alphabet counterparts
 - F (bilabial fricative)
 - V (voiced bilabial fricative)
+- ng (voiced velar nasal)
 
 ### Changed based on the appearance of the Latin alphabet counterparts
 #### Vowels
@@ -64,13 +66,11 @@ Open           | a OE|     |     |     | A D
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - { (voiced retroflex approximant)
-- ng (voiced velar nasal)
 - X (uvular fricative)
 - K (voiced uvular fricative)
 - ? (glottal stop/plosive)
 #### Other sounds/symbols
-- H (voiceless epiglottal fricative)
-- "-" [without quotes; a single dash] (affricate or double articulation marker, placed between two letters)
+- ) (affricate or double articulation marker, placed between two letters)
 #### Suprasegmentals
 - ' (primary stress)
 - " (secondary stress)
