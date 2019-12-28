@@ -54,8 +54,9 @@ Open           | a - |     |     |     | - -
 - X (uvular fricative)
 - K (voiced uvular fricative)
 - ? (glottal stop/plosive)
-#### Other sounds
+#### Other sounds/symbols
 - M (voiceless labialised velar approximant)
+- H (voiceless epiglottal fricative)
 - "-" [without quotes; a single dash] (affricate or double articulation marker, placed between two letters)
 #### Suprasegmentals
 - ' (primary stress)
