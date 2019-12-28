@@ -14,7 +14,7 @@ Lateral approx. |     |     |       |   l |     |     - |   - |   L |     |     
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
-Close          | i y |     | 1 - |     | W u
+Close          | i y |     | 1 - |     | uu u
 Half close-mid |     | I Y |     |   U |
 Close-mid      | e 0 |     | - - |     | - o
 Half open-mid  |     |     |  - (dash)  |     |
@@ -46,7 +46,7 @@ Open           | a OE|     |     |     | A D
 - 1 (central close)
 - "-" [without quotes; dash] (central half open-mid)
 - 3 (central open-mid)
-- W (back close)
+- uu (back close)
 - U (near-back near-close)
 - ^ (back open-mid)
 - O [capital o] (rounded back open-mid)
