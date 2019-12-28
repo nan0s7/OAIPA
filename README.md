@@ -3,14 +3,14 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |     |     | t d |     | D DD| c - | k g | q G |     | ?
-Nasal           |   m |  mg |     |   n |     |   - |   - |  ng |   N |     |
-Trill           |   B |     |     |   r |     |     |     |     |   R |     |
-Tap, flap       |     |   - |     |   - |     |   - |     |     |     |     |
-Fricative       | F V | f v | T TT| s z | S Z | $ 2 | - - | x - | X K | - 9 | h -
-Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
-Approximate     |     |   - |     |   J |     |   { |   j |   - |     |     |
-Lateral approx. |     |     |     |   l |     |   - |   - |   L |     |     |
+Plosive         | p b |     |       | t d |     | t, d, | c - | k g | q G |     | ?
+Nasal           |   m |  mg |       |   n |     |     - |   - |  ng |   N |     |
+Trill           |   B |     |       |   r |     |       |     |     |   R |     |
+Tap, flap       |     |   - |       |   - |     |     - |     |     |     |     |
+Fricative       | F V | f v | th TH | s z | S Z | $   2 | - - | x - | X K | - 9 | h hh
+Lateral fric.   |     |     |       | - - |     |       |     |     |     |     |
+Approximate     |     |   - |       |   J |     |     { |   j |   - |     |     |
+Lateral approx. |     |     |       |   l |     |     - |   - |   L |     |     |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
@@ -54,13 +54,13 @@ Open           | a OE|     |     |     | A D
 - D (rounded back open)
 #### Pulmonic consonants
 - M (voiced labiodental nasal)
-- T (dental fricative)
-- TT (voiced dental fricative)
+- th (dental fricative)
+- TH (voiced dental fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
-- D (retroflex plosive)
-- DD (voiced retroflex plosive)
+- t, (retroflex plosive)
+- d, (voiced retroflex plosive)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - { (voiced retroflex approximant)
@@ -73,10 +73,10 @@ Open           | a OE|     |     |     | A D
 - "-" [without quotes; a single dash] (affricate or double articulation marker, placed between two letters)
 #### Suprasegmentals
 - ' (primary stress)
-- , (secondary stress)
+- " (secondary stress)
 - : (long vowel)
 - ; (half-long vowel)
-- " (extra short vowel)
+- = (extra short vowel)
 - | (minor foot break)
 - || (major intonation break)
 - . (syllable break)
