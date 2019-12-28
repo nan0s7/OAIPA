@@ -17,7 +17,7 @@ Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 Close          | i y |     | 1 - |     | W u
 Half close-mid |     | I Y |     |   U |
 Close-mid      | e 0 |     | - - |     | - o
-Half open-mid  |     |     |  @  |     |
+Half open-mid  |     |     |  - (dash)  |     |
 Open-mid       | E oe|     | 3 - |     | ^ O
 Half open      | ae  |     | -   |     |
 Open           | a OE|     |     |     | A D
@@ -44,7 +44,7 @@ Open           | a OE|     |     |     | A D
 - ae (front half open)
 - OE (rounded front open)
 - 1 (central close)
-- @ (central half open-mid)
+- "-" [without quotes; dash] (central half open-mid)
 - 3 (central open-mid)
 - W (back close)
 - U (near-back near-close)
