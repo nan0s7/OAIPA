@@ -43,8 +43,8 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 - _ (linking without a break)
 - | (minor foot break)
 - || (major intonation break)
-- ">/" or "/>" [without quotes] (global rise)
-- ">\" or "\">" [without quotes] (global fall)
+- ">/" or "/>" [without quotes or spaces] (global rise)
+- ">\ or \ >" [without quotes or spaces] (global fall)
 
 - '' (top level tone)
 - ' (high level tone)
