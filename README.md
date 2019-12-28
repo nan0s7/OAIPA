@@ -16,12 +16,12 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 - V (bilabial voiced fricative)
 
 ### Changed based on the appearance of the Latin alphabet counterparts
-- 0 (front close-mid rounded vowel)
+- 0 [zero] (front close-mid rounded vowel)
 - E (front open-mid vowel)
 - 3 (central open-mid vowel)
 - W (back close vowel)
 - U (near-back near-close vowel)
 - ^ (back open-mid vowel)
-- O (back open-mid rounded vowel)
+- O [capital o] (back open-mid rounded vowel)
 - X (velar fricative)
 - ? (glottal stop/plosive)
