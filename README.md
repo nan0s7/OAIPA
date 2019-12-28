@@ -3,7 +3,7 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |     |       | t d |     | t, d, | c - | k g | q G |     | ?
+Plosive         | p b |     |       | t d |     | t' d' | c - | k g | q G |     | ?
 Nasal           |   m |  mg |       |   n |     |     - |   - |  ng |   N |     |
 Trill           |   B |     |       |   r |     |       |     |     |   R |     |
 Tap, flap       |     |   - |       |   - |     |     - |     |     |     |     |
@@ -59,8 +59,8 @@ Open           | a OE|     |     |     | A D
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
-- t, (retroflex plosive)
-- d, (voiced retroflex plosive)
+- t' (retroflex plosive)
+- d' (voiced retroflex plosive)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - { (voiced retroflex approximant)
