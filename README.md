@@ -42,7 +42,7 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 - '' (top level tone)
 - ' (high level tone)
-- - (mid level tone)
+- "-" [without quotes; a single dash] (mid level tone)
 - , (low level tone)
 - ,, (bottom level tone)
 
