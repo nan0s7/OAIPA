@@ -32,6 +32,7 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 - ? (glottal stop/plosive)
 
 - M (voiceless labialised velar approximant)
+- "-" [without quotes; a single dash] (affricate or double articulation marker, placed between two letters)
 
 - : (long vowel modifier)
 - ; (half-long vowel modifier)
@@ -39,6 +40,11 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 - ' (primary stress)
 - " (extra stress)
 - , (secondary stress)
+- _ (linking without a break)
+- | (minor foot break)
+- || (major intonation break)
+- >/ or /> (global rise)
+- >\ or \> (global fall)
 
 - '' (top level tone)
 - ' (high level tone)
