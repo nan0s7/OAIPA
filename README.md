@@ -3,8 +3,15 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Nasal |   m |   - | |   n | |   - | | -   |   - | | 
-Plosive | p b | | | t d | | - - | c - | k g | q G | - | ? -
+Nasal           |   m |   - |     |   n |     |   - |     | -   |   - |     | 
+Plosive         | p b |     |     | t d |     | - - |   c | -   | k g | q G |  -  | ?
+Fricative       | F V | f v | - - | s z | S Z | - - | - - | - - | x - | - - | - - | h -
+Approximate     |     |   - |     |   - |     |   - |     | j   |   - |     |     |
+Tap, flap       |     |   - |     |   - |     |   - |     |     |     |     |     |
+Trill           |   - |     |     |   r |     |     |     |     |     |   - | - - |
+Lateral fric.   |     |     |     | - - |     | ~ ~ |   ~ |     | ~   |     |     |
+Lateral approx. |     |     |     |   l |     |   - |     | -   |   - |     |     |
+Lateral flap    |     |     |     |   - |     |   ~ |     |     |     |     |     |
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
