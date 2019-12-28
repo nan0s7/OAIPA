@@ -13,7 +13,13 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 ### Changed based on the sound of their Latin alphabet counterparts
 - F (bilabial fricative)
-- V (bilabial voiced fricative)
+- V (voiced bilabial fricative)
+- : (long vowel modifier)
+- ; (half-long vowel modifier)
+- . (syllable break)
+- ' (primary stress)
+- " (extra stress)
+- , (secondary stress)
 
 ### Changed based on the appearance of the Latin alphabet counterparts
 - 0 [zero] (front close-mid rounded vowel)
@@ -23,5 +29,7 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 - U (near-back near-close vowel)
 - ^ (back open-mid vowel)
 - O [capital o] (back open-mid rounded vowel)
+- S (postalveolar fricative)
+- Z (voiced postalveolar fricative)
 - X (velar fricative)
 - ? (glottal stop/plosive)
