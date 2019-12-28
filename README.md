@@ -9,7 +9,7 @@ Trill           |   B |     |     |   r |     |     |     |     |   R |     |
 Tap, flap       |     |   - |     |   - |     |   - |     |     |     |     |
 Fricative       | F V | f v | T D | s z | S Z | $ 2 | - - | x - | X K | - 9 | h -
 Lateral fric.   |     |     |     | - - |     |     |     |     |     |     |
-Approximate     |     |   - |     |   J |     |   - |   j |   - |     |     |
+Approximate     |     |   - |     |   J |     |   { |   j |   - |     |     |
 Lateral approx. |     |     |     |   l |     |   - |   - |   L |     |     |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
@@ -57,6 +57,7 @@ Open           | a - |     |     |     | - -
 - / (voiced retroflex plosive)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
+- { (voiced retroflex approximant)
 - ng (voiced velar nasal)
 - X (uvular fricative)
 - K (voiced uvular fricative)
