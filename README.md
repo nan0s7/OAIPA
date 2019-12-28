@@ -37,6 +37,7 @@ Open           | a - |     |     |     | - -
 - V (voiced bilabial fricative)
 
 ### Changed based on the appearance of the Latin alphabet counterparts
+#### Vowels
 - 0 [zero] (front close-mid rounded vowel)
 - E (front open-mid vowel)
 - 3 (central open-mid vowel)
@@ -44,17 +45,17 @@ Open           | a - |     |     |     | - -
 - U (near-back near-close vowel)
 - ^ (back open-mid vowel)
 - O [capital o] (back open-mid rounded vowel)
-
+#### Pulmonic consonants
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - X (velar fricative)
 - ? (glottal stop/plosive)
-
+#### Other sounds
 - M (voiceless labialised velar approximant)
 - "-" [without quotes; a single dash] (affricate or double articulation marker, placed between two letters)
-
+#### Suprasegmentals
 - : (long vowel modifier)
 - ; (half-long vowel modifier)
 - . (syllable break)
@@ -64,20 +65,19 @@ Open           | a - |     |     |     | - -
 - _ (linking without a break)
 - | (minor foot break)
 - || (major intonation break)
-- ">/" or "/>" [without quotes or spaces] (global rise)
-- ">\ or \ >" [without quotes or spaces] (global fall)
-
+#### Tone levels
 - '' (top level tone)
 - ' (high level tone)
 - "-" [without quotes; a single dash] (mid level tone)
 - , (low level tone)
 - ,, (bottom level tone)
-
+- ^| (upstep) or? |'
+- v| (downstep) or? |,
+#### Tone contours
 - v (rising contour tone)
 - ^ (falling contour tone)
 - -' (high rising contour tone)
 - '- (low rising contour tone)
-- ,- (high falling contour tone)
-- -, (low falling contour tone)
-- v, or v' (peaking contour tone)
-- ^' or ^, (dipping contour tone)
+- ~ (rising-falling contour tone)
+- ">/" or "/>" [without quotes or spaces] (global rise) or? /'
+- ">\ or \ >" [without quotes or spaces] (global fall) or? \ ,
