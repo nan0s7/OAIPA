@@ -3,11 +3,11 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p  b  |       |       | t  d  |       | D  D` | c  -  | k  g  | q  G  |       | ?
+Plosive         | p  b  |       |       | t  d  |       | D  D` | c  j- | k  g  | q  G  |       | ?
 Nasal           |    m  |    mg |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    B  |       |       |    r  |       |       |       |       |    R  |       |
 Tap, flap       |       |    v` |       |    P  |       |    [  |       |       |       |       |
-Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  x` | X  K  | h` ?? | h  H
+Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  x` | X  K  | h- ?? | h  H
 Lateral fric.   |       |       |       | 1  1` |       |       |       |       |       |       |
 Approximate     |       |    u` |       |    J  |       |    {  |    j  |    uq |       |       |
 Lateral approx. |       |       |       |    l  |       |    -  |    -  |    L  |       |       |
@@ -100,10 +100,11 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - { (voiced retroflex approximant)
+- j- (voiced palatal plosive)
 - uq (voiced velar approximant)
 - X (uvular fricative)
 - K (voiced uvular fricative)
-- h` (pharyngeal fricative)
+- h- (pharyngeal fricative)
 - ?? (voiced pharyngeal fricative)
 - ? (glottal stop/plosive)
 - H (voiced glottal fricative)
