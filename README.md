@@ -22,6 +22,22 @@ Open-mid       | E oe |     | 3 - |     | ^  O
 Half open      |  ae  |     | 6   |     |
 Open           | a OE |     |     |     | A  D
 
+#### Diacritics
+Description | Example | Description | Example | Description | Example
+--- | :---: | --- | :---: | --- | :---:
+Voiceless (v) | n(v), d(v) | Breathy voiced (..) or (.V) | b(..), a(.V) | Dental (d) or (D) | t(d), d(D)
+Voiced (V) | s(V), t(V)    | Creaky voiced (~~) or (~V) | b(~V)         | Apical (a) or (A) | t(a), d(A)
+Aspirated (h) | t(h), d(h) | Linguolabial (m) or (M) |                  | Laminal (L) | t(L), d(L)
+More rounded |             | Labialised (w) or (W) | t(w), d(W)         | Nasalised ~ | e~
+Less rounded |             | Palatalised (j) or (J) | t(j), d(J)        | Nasal release (n) or (N) | d(n), d(N)
+Advanced (+) | u(+)        | Velarised (y) or (Y) | t(y), d(Y)          | Lateral release (l) | d(l)
+Retracted (_) |            | Pharyngealised (?) | t(?), d(?)            | No audible release (-) |
+Centralised (..) | e(..)   | Velarised or pharyngealised (~) |           |
+Mid-centralised (x) | e(x) | Raised (T) | e(T)                          |
+Syllabic (,) | n(,)        | Lowered (t) | e(t)                         |
+Non-syllabic (n) | e(n)    | Advanced tongue root (<) | e(<)            |
+Rhoticity (s) | a(s)       | Retracted tongue root (>) | e(>)           |
+
 ### Unchanged from IPA
 - a, e, i, o, u, y
 - b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, x, z
