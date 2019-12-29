@@ -3,14 +3,14 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |      |       | t d |     | D  D` | c  - | k  g | q G |       | ?
-Nasal           |   m |   mg |       |   n |     |    nn |   nj |   ng |   N |       |
-Trill           |   B |      |       |   r |     |       |      |      |   R |       |
-Tap, flap       |     |   v` |       |   P |     |     [ |      |      |     |       |
-Fricative       | F V | f  v | T  T` | s z | S Z | $   2 | -  - | x  - | X K | h` ?? | h H
-Lateral fric.   |     |      |       | - - |     |       |      |      |     |       |
-Approximate     |     |   u` |       |   J |     |     { |    j |   uq |     |       |
-Lateral approx. |     |      |       |   l |     |     - |    - |    L |     |       |
+Plosive         | p b |      |       | t  d |     | D  D` | c  - | k  g | q G |       | ?
+Nasal           |   m |   mg |       |    n |     |    nn |   nj |   ng |   N |       |
+Trill           |   B |      |       |    r |     |       |      |      |   R |       |
+Tap, flap       |     |   v` |       |    P |     |     [ |      |      |     |       |
+Fricative       | F V | f  v | T  T` | s  z | S Z | $   2 | -  - | x  - | X K | h` ?? | h H
+Lateral fric.   |     |      |       | 1 1` |     |       |      |      |     |       |
+Approximate     |     |   u` |       |    J |     |     { |    j |   uq |     |       |
+Lateral approx. |     |      |       |    l |     |     - |    - |    L |     |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
@@ -51,7 +51,7 @@ Open           | a OE |     |     |     | A  D
 - oe (rounded front open-mid)
 - ae (front half open)
 - OE (rounded front open)
-- 1 (central close)
+-  (central close)
 - 9 (central close-mid)
 - (central half open-mid)
 - 3 (central open-mid)
@@ -69,6 +69,8 @@ Open           | a OE |     |     |     | A  D
 - T (dental fricative)
 - T` (voiced dental fricative)
 - P (voiced alveolar tap/flap)
+- 1 (alveolar lateral fricative)
+- 1` (voiced alveolar lateral fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
