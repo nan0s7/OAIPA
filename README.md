@@ -3,24 +3,24 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |     |       | t d |     | t' d' | c  - | k  g | q G |      | ?
-Nasal           |   m |  mg |       |   n |     |    nn |   nj |   ng |   N |      |
-Trill           |   B |     |       |   r |     |       |      |      |   R |      |
-Tap, flap       |     |   v'|       |   P |     |     [ |      |      |     |      |
-Fricative       | F V | f v | th TH | s z | S Z | $   2 | -  - | x  - | X K | h' ??| h H
-Lateral fric.   |     |     |       | - - |     |       |      |      |     |      |
-Approximate     |     |   - |       |   J |     |     { |    j |   uq |     |      |
-Lateral approx. |     |     |       |   l |     |     - |    - |    L |     |      |
+Plosive         | p b |      |       | t d |     | t` d` | c  - | k  g | q G |       | ?
+Nasal           |   m |   mg |       |   n |     |    nn |   nj |   ng |   N |       |
+Trill           |   B |      |       |   r |     |       |      |      |   R |       |
+Tap, flap       |     |   v` |       |   P |     |     [ |      |      |     |       |
+Fricative       | F V | f  v | th TH | s z | S Z | $   2 | -  - | x  - | X K | h` ?? | h H
+Lateral fric.   |     |      |       | - - |     |       |      |      |     |       |
+Approximate     |     |   u` |       |   J |     |     { |    j |   uq |     |       |
+Lateral approx. |     |      |       |   l |     |     - |    - |    L |     |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
-Close          | i y |     | 1 - |     | uu u
-Half close-mid |     | I Y |     |   U |
-Close-mid      | e 0 |     | 9 - |     | - o
-Half open-mid  |     |     |  -  |     |
-Open-mid       | E oe|     | 3 - |     | ^ O
-Half open      | ae  |     | 6   |     |
-Open           | a OE|     |     |     | A D
+Close          | i  y |     | 1 - |     | uu u
+Half close-mid |      | I Y |     |   U |
+Close-mid      | e  0 |     | 9 - |     | -  o
+Half open-mid  |      |     |  -  |     |
+Open-mid       | E oe |     | 3 - |     | ^  O
+Half open      |  ae  |     | 6   |     |
+Open           | a OE |     |     |     | A  D
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
@@ -64,15 +64,16 @@ Open           | a OE|     |     |     | A D
 - D (rounded back open)
 #### Pulmonic consonants
 - mg (voiced labiodental nasal)
-- v' (voiced labiodental tap/flap)
+- v` (voiced labiodental tap/flap)
+- u` (voiced labiodental approximant)
 - th (dental fricative)
 - TH (voiced dental fricative)
 - P (voiced alveolar tap/flap)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
-- t' (retroflex plosive)
-- d' (voiced retroflex plosive)
+- t` (retroflex plosive)
+- d` (voiced retroflex plosive)
 - [ (voiced retroflex tap/flap)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
@@ -80,7 +81,7 @@ Open           | a OE|     |     |     | A D
 - uq (voiced velar approximant)
 - X (uvular fricative)
 - K (voiced uvular fricative)
-- h' (pharyngeal fricative)
+- h` (pharyngeal fricative)
 - ?? (voiced pharyngeal fricative)
 - ? (glottal stop/plosive)
 - H (voiced glottal fricative)
@@ -98,6 +99,14 @@ Open           | a OE|     |     |     | A D
 - || (major intonation break)
 - . (syllable break)
 - _ (linking without a break)
+#### Diacritics
+- (h) (aspirated)
+- (w) (labialised)
+- (?) (pharyngealised)
+- (~) (velarised or pharyngealised)
+- (T) (raised)
+- (t) (lowered)
+- ~ (nasalised)
 #### Tone levels
 - '' (top level tone)
 - ' (high level tone)
