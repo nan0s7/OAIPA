@@ -3,11 +3,11 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |      |       | t d |     | t` d` | c  - | k  g | q G |       | ?
+Plosive         | p b |      |       | t d |     | D  D` | c  - | k  g | q G |       | ?
 Nasal           |   m |   mg |       |   n |     |    nn |   nj |   ng |   N |       |
 Trill           |   B |      |       |   r |     |       |      |      |   R |       |
 Tap, flap       |     |   v` |       |   P |     |     [ |      |      |     |       |
-Fricative       | F V | f  v | th TH | s z | S Z | $   2 | -  - | x  - | X K | h` ?? | h H
+Fricative       | F V | f  v | T  T` | s z | S Z | $   2 | -  - | x  - | X K | h` ?? | h H
 Lateral fric.   |     |      |       | - - |     |       |      |      |     |       |
 Approximate     |     |   u` |       |   J |     |     { |    j |   uq |     |       |
 Lateral approx. |     |      |       |   l |     |     - |    - |    L |     |       |
@@ -66,14 +66,14 @@ Open           | a OE |     |     |     | A  D
 - mg (voiced labiodental nasal)
 - v` (voiced labiodental tap/flap)
 - u` (voiced labiodental approximant)
-- th (dental fricative)
-- TH (voiced dental fricative)
+- T (dental fricative)
+- T` (voiced dental fricative)
 - P (voiced alveolar tap/flap)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
-- t` (retroflex plosive)
-- d` (voiced retroflex plosive)
+- D (retroflex plosive)
+- D` (voiced retroflex plosive)
 - [ (voiced retroflex tap/flap)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
