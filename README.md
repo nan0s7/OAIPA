@@ -14,13 +14,13 @@ Lateral approx. |     |      |       |    l |     |     - |    - |    L |     | 
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
-Close          | i  y |     | - - |     | uu u
-Half close-mid |      | I Y |     |   U |
-Close-mid      | e  0 |     | 9 - |     | -  o
-Half open-mid  |      |     |  -  |     |
-Open-mid       | E oe |     | 3 - |     | ^  O
-Half open      |  ae  |     | 6   |     |
-Open           | a OE |     |     |     | A  D
+Close          | i  y  |     | i- u- |     | uu u
+Half close-mid |       | I Y |       |   U |
+Close-mid      | e  0  |     | 9   - |     | -  o
+Half open-mid  |       |     |    -  |     |
+Open-mid       | E  oe |     | 3   - |     | ^  O
+Half open      |    ae |     | 6     |     |
+Open           | a  OE |     |       |     | A  D
 
 #### Diacritics
 Description | Example | Description | Example | Description | Example
@@ -67,7 +67,8 @@ Rhoticity (s) | a(s)       | Retracted tongue root (>) | e(>)           |
 - oe (rounded front open-mid)
 - ae (front half open)
 - OE (rounded front open)
--  (central close)
+- i- (central close)
+- u- (rounded central close)
 - 9 (central close-mid)
 - (central half open-mid)
 - 3 (central open-mid)
