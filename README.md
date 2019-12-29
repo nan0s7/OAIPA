@@ -2,41 +2,42 @@
 An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |      |       | t  d |     | D  D` | c  - | k  g | q G |       | ?
-Nasal           |   m |   mg |       |    n |     |    nn |   nj |   ng |   N |       |
-Trill           |   B |      |       |    r |     |       |      |      |   R |       |
-Tap, flap       |     |   v` |       |    P |     |     [ |      |      |     |       |
-Fricative       | F V | f  v | T  T` | s  z | S Z | $   2 | -  - | x  - | X K | h` ?? | h H
-Lateral fric.   |     |      |       | 1 1` |     |       |      |      |     |       |
-Approximate     |     |   u` |       |    J |     |     { |    j |   uq |     |       |
-Lateral approx. |     |      |       |    l |     |     - |    - |    L |     |       |
+---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+Plosive         | p  b  |       |       | t  d  |       | D  D` | c  -  | k  g  | q  G  |       | ?
+Nasal           |    m  |    mg |       |    n  |       |    nn |    nj |    ng |    N  |       |
+Trill           |    B  |       |       |    r  |       |       |       |       |    R  |       |
+Tap, flap       |       |    v` |       |    P  |       |    [  |       |       |       |       |
+Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  -  | X  K  | h` ?? | h  H
+Lateral fric.   |       |       |       | 1  1` |       |       |       |       |       |       |
+Approximate     |       |    u` |       |    J  |       |    {  |    j  |    uq |       |       |
+Lateral approx. |       |       |       |    l  |       |    -  |    -  |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
---- | :---: | :---: | :---: | :---: | :---:
-Close          | i  y  |     | i- u- |     | uu u
-Half close-mid |       | I Y |       |   U |
-Close-mid      | e  0  |     | 9   - |     | -  o
-Half open-mid  |       |     |    -  |     |
-Open-mid       | E  oe |     | 3   - |     | ^  O
-Half open      |    ae |     | 6     |     |
-Open           | a  OE |     |       |     | A  A`
+---            | :---: | :---: | :---: | :---: | :---:
+Close          | i  y  |       | i- u- |       | uu u
+Half close-mid |       | I  Y  |       |    U  |
+Close-mid      | e  0  |       | 9  -  |       | -  o
+Half open-mid  |       |       |    -  |       |
+Open-mid       | E  oe |       | 3  -  |       | ^  O
+Half open      |    ae |       | 6     |       |
+Open           | a  OE |       |       |       | A  A`
 
 #### Diacritics
+In situations where information is clear and uncluttered, the closing parenthesis is not mandatory.
 Description | Example | Description | Example | Description | Example
 --- | :---: | --- | :---: | --- | :---:
-Voiceless (v) | n(v), d(v) | Breathy voiced (..) or (.V) | b(..), a(.V) | Dental (d) or (D) | t(d), d(D)
-Voiced (V) | s(V), t(V)    | Creaky voiced (~~) or (~V) | b(~V)         | Apical (a) or (A) | t(a), d(A)
-Aspirated (h) | t(h), d(h) | Linguolabial (m) or (M) |                  | Laminal (L) | t(L), d(L)
-More rounded |             | Labialised (w) or (W) | t(w), d(W)         | Nasalised ~ | e~
-Less rounded |             | Palatalised (j) or (J) | t(j), d(J)        | Nasal release (n) or (N) | d(n), d(N)
-Advanced (+) | u(+)        | Velarised (y) or (Y) | t(y), d(Y)          | Lateral release (l) | d(l)
-Retracted (_) |            | Pharyngealised (?) | t(?), d(?)            | No audible release (-) |
-Centralised (..) | e(..)   | Velarised or pharyngealised (~) |           |
-Mid-centralised (x) | e(x) | Raised (T) | e(T)                          |
-Syllabic (,) | n(,)        | Lowered (t) | e(t)                         |
-Non-syllabic (n) | e(n)    | Advanced tongue root (<) | e(<)            |
-Rhoticity (s) | a(s)       | Retracted tongue root (>) | e(>)           |
+Voiceless       | n(v), d(v) | Breathy voiced              | b(,,), a(,V) | Dental             | t(d), d(D)
+Voiced          | s(V), t(V) | Creaky voiced               | b(~~), a(~V) | Apical             | t(a), d(A)
+Aspirated       | t(h), d(h) | Linguolabial                | t(m),  d(M)  | Laminal            | t(L), d(L)
+More rounded    |            | Labialised                  | t(w),  d(W)  | Nasalised          | e~
+Less rounded    |            | Palatalised                 | t(j),  d(J)  | Nasal release      | d(n), d(N)
+Advanced        | u(+)       | Velarised                   | t(y),  d(Y)  | Lateral release    | d(l)
+Retracted       |            | Pharyngealised              | t(?),  d(?)  | No audible release | d(-)
+Centralised     | e(..)      | Velarised or pharyngealised | l(~)         |
+Mid-centralised | e(x)       | Raised                      | e(T)         |
+Syllabic        | n(.)       | Lowered                     | e(t)         |
+Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |
+Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
