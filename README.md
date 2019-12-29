@@ -91,7 +91,7 @@ Open           | a OE |     |     |     | A  D
 - ) (affricate or double articulation marker, placed after two sounds)
 #### Suprasegmentals
 - ' (primary stress)
-- " (secondary stress)
+- , (secondary stress)
 - : (long vowel)
 - ; (half-long vowel)
 - = (extra short vowel)
