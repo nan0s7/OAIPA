@@ -1,5 +1,6 @@
 # OAIPA
-An open source IPA (International Phonetic Alphabet) for the ASCII character set
+An open source IPA (International Phonetic Alphabet) for the ASCII character set.
+Version 0.3
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
@@ -18,7 +19,7 @@ Close          | i  y  |       | i- u- |       | uu u
 Half close-mid |       | I  Y  |       |    U  |
 Close-mid      | e  0  |       | 9  -  |       | -  o
 Half open-mid  |       |       |    -  |       |
-Open-mid       | E  oe |       | 3  -  |       | ^  O
+Open-mid       | E  oe |       | 3  3" |       | ^  O
 Half open      |    ae |       | 6     |       |
 Open           | a  OE |       |       |       | A  A"
 
@@ -64,6 +65,8 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - nj (voiced palatal nasal)
 - j" (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
+#### Vowels
+- 3" (rounded central open-mid)
 #### Other sounds/symbols
 - hw (voiceless labial-velar fricative)
 
