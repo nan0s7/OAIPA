@@ -38,7 +38,7 @@ Open           | a OE|     |     |     | A D
 - V (voiced bilabial fricative)
 - ng (voiced velar nasal)
 
-#### Changed based on the sound in the IPA and the existing letter in OAIPA
+### Changed based on the sound in the IPA and the existing letter in OAIPA
 - hw (voiceless labial-velar fricative)
 
 ### Changed based on the appearance of the Latin alphabet counterparts
@@ -50,7 +50,7 @@ Open           | a OE|     |     |     | A D
 - OE (rounded front open)
 - 1 (central close)
 - 9 (central close-mid)
-- "-" [without quotes; dash] (central half open-mid)
+- (central half open-mid)
 - 3 (central open-mid)
 - 6 (central half open)
 - uu (back close)
@@ -69,6 +69,7 @@ Open           | a OE|     |     |     | A D
 - J (voiced alveolar approximant)
 - t' (retroflex plosive)
 - d' (voiced retroflex plosive)
+- [ (voiced retroflex tap/flap)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
 - { (voiced retroflex approximant)
