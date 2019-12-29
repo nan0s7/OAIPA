@@ -3,14 +3,14 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p b |     |       | t d |     | t' d' | c - | k g | q G |     | ?
-Nasal           |   m |  mg |       |   n |     |     - |   - |  ng |   N |     |
-Trill           |   B |     |       |   r |     |       |     |     |   R |     |
-Tap, flap       |     |   - |       |   P |     |     [ |     |     |     |     |
-Fricative       | F V | f v | th TH | s z | S Z | $   2 | - - | x - | X K | - ??| h hh
-Lateral fric.   |     |     |       | - - |     |       |     |     |     |     |
-Approximate     |     |   - |       |   J |     |     { |   j |   uq|     |     |
-Lateral approx. |     |     |       |   l |     |     - |   - |   L |     |     |
+Plosive         | p b |     |       | t d |     | t' d' | c - | k g | q G |      | ?
+Nasal           |   m |  mg |       |   n |     |     - |   - |  ng |   N |      |
+Trill           |   B |     |       |   r |     |       |     |     |   R |      |
+Tap, flap       |     |   - |       |   P |     |     [ |     |     |     |      |
+Fricative       | F V | f v | th TH | s z | S Z | $   2 | - - | x - | X K | h' ??| h H
+Lateral fric.   |     |     |       | - - |     |       |     |     |     |      |
+Approximate     |     |   - |       |   J |     |     { |   j |   uq|     |      |
+Lateral approx. |     |     |       |   l |     |     - |   - |   L |     |      |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 --- | :---: | :---: | :---: | :---: | :---:
@@ -31,7 +31,6 @@ Open           | a OE|     |     |     | A D
 ### Unchanged besides size and or font
 - I, Y
 - B, G, N, L, R
-- H
 
 ### Changed based on the sound of their Latin alphabet counterparts
 - F (bilabial fricative)
@@ -76,9 +75,12 @@ Open           | a OE|     |     |     | A D
 - uq (voiced velar approximant)
 - X (uvular fricative)
 - K (voiced uvular fricative)
+- h' (pharyngeal fricative)
 - ?? (voiced pharyngeal fricative)
 - ? (glottal stop/plosive)
+- H (voiced glottal fricative)
 #### Other sounds/symbols
+- HH (voiceless epiglottal fricative)
 - ] (voiced alveolar lateral flap)
 - ) (affricate or double articulation marker, placed between two letters)
 #### Suprasegmentals
