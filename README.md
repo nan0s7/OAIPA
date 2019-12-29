@@ -3,14 +3,14 @@ An open source IPA (International Phonetic Alphabet) for the ASCII character set
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p  b  |       |       | t  d  |       | D  D` | c  j- | k  g  | q  G  |       | ?
+Plosive         | p  b  |       |       | t  d  |       | D  D" | c  j- | k  g  | q  G  |       | ?
 Nasal           |    m  |    mg |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    B  |       |       |    r  |       |       |       |       |    R  |       |
-Tap, flap       |       |    v` |       |    P  |       |    [  |       |       |       |       |
-Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  x` | X  K  | h- ?? | h  H
-Lateral fric.   |       |       |       | 1  1` |       |       |       |       |       |       |
-Approximate     |       |    u` |       |    J  |       |    {  |    j  |    uq |       |       |
-Lateral approx. |       |       |       |    l  |       |    l` |    j`  |    L  |       |       |
+Tap, flap       |       |    v" |       |    P  |       |    [  |       |       |       |       |
+Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
+Lateral fric.   |       |       |       | 1  1" |       |       |       |       |       |       |
+Approximate     |       |    u" |       |    J  |       |    {  |    j  |    uq |       |       |
+Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
@@ -20,7 +20,7 @@ Close-mid      | e  0  |       | 9  -  |       | -  o
 Half open-mid  |       |       |    -  |       |
 Open-mid       | E  oe |       | 3  -  |       | ^  O
 Half open      |    ae |       | 6     |       |
-Open           | a  OE |       |       |       | A  A`
+Open           | a  OE |       |       |       | A  A"
 
 #### Diacritics
 In situations where information is clear and uncluttered, the closing parenthesis is not mandatory.
@@ -57,13 +57,13 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
 #### Pulmonic consonants
-- T` (voiced dental fricative)
-- 1` (voiced alveolar lateral fricative)
+- T" (voiced dental fricative)
+- 1" (voiced alveolar lateral fricative)
 - nn (voiced retroflex nasal)
-- l` (voiced retroflex lateral approximant)
+- l" (voiced retroflex lateral approximant)
 - nj (voiced palatal nasal)
-- j` (voiced palatal lateral approximant)
-- x` (voiced velar fricative)
+- j" (voiced palatal lateral approximant)
+- x" (voiced velar fricative)
 #### Other sounds/symbols
 - hw (voiceless labial-velar fricative)
 
@@ -85,11 +85,11 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - ^ (back open-mid)
 - O [capital o] (rounded back open-mid)
 - A (back open)
-- A` (rounded back open)
+- A" (rounded back open)
 #### Pulmonic consonants
 - mg (voiced labiodental nasal)
-- v` (voiced labiodental tap/flap)
-- u` (voiced labiodental approximant)
+- v" (voiced labiodental tap/flap)
+- u" (voiced labiodental approximant)
 - T (dental fricative)
 - P (voiced alveolar tap/flap)
 - 1 (alveolar lateral fricative)
@@ -97,7 +97,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
 - D (retroflex plosive)
-- D` (voiced retroflex plosive)
+- D" (voiced retroflex plosive)
 - [ (voiced retroflex tap/flap)
 - $ (retroflex fricative)
 - 2 (voiced retroflex fricative)
