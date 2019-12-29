@@ -24,6 +24,7 @@ Open           | a  OE |       |       |       | A  A`
 
 #### Diacritics
 In situations where information is clear and uncluttered, the closing parenthesis is not mandatory.
+
 Description | Example | Description | Example | Description | Example
 --- | :---: | --- | :---: | --- | :---:
 Voiceless       | n(v), d(v) | Breathy voiced              | b(,,), a(,V) | Dental             | t(d), d(D)
@@ -33,11 +34,11 @@ More rounded    |            | Labialised                  | t(w),  d(W)  | Nasa
 Less rounded    |            | Palatalised                 | t(j),  d(J)  | Nasal release      | d(n), d(N)
 Advanced        | u(+)       | Velarised                   | t(y),  d(Y)  | Lateral release    | d(l)
 Retracted       |            | Pharyngealised              | t(?),  d(?)  | No audible release | d(-)
-Centralised     | e(..)      | Velarised or pharyngealised | l(~)         |
-Mid-centralised | e(x)       | Raised                      | e(T)         |
-Syllabic        | n(.)       | Lowered                     | e(t)         |
-Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |
-Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |
+Centralised     | e(..)      | Velarised or pharyngealised | l(~)         |                    |
+Mid-centralised | e(x)       | Raised                      | e(T)         |                    |
+Syllabic        | n(.)       | Lowered                     | e(t)         |                    |
+Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |                    |
+Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |                    |
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
