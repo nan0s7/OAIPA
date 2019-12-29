@@ -7,7 +7,7 @@ Plosive         | p  b  |       |       | t  d  |       | D  D` | c  -  | k  g  
 Nasal           |    m  |    mg |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    B  |       |       |    r  |       |       |       |       |    R  |       |
 Tap, flap       |       |    v` |       |    P  |       |    [  |       |       |       |       |
-Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  -  | X  K  | h` ?? | h  H
+Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  x` | X  K  | h` ?? | h  H
 Lateral fric.   |       |       |       | 1  1` |       |       |       |       |       |       |
 Approximate     |       |    u` |       |    J  |       |    {  |    j  |    uq |       |       |
 Lateral approx. |       |       |       |    l  |       |    -  |    -  |    L  |       |       |
@@ -57,8 +57,11 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
 #### Pulmonic consonants
+- T` (voiced dental fricative)
+- 1` (voiced alveolar lateral fricative)
 - nn (voiced retroflex nasal)
 - nj (voiced palatal nasal)
+- x` (voiced velar fricative)
 #### Other sounds/symbols
 - hw (voiceless labial-velar fricative)
 
@@ -86,10 +89,8 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - v` (voiced labiodental tap/flap)
 - u` (voiced labiodental approximant)
 - T (dental fricative)
-- T` (voiced dental fricative)
 - P (voiced alveolar tap/flap)
 - 1 (alveolar lateral fricative)
-- 1` (voiced alveolar lateral fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
