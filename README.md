@@ -6,7 +6,7 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 Plosive         | p b |     |       | t d |     | t' d' | c - | k g | q G |      | ?
 Nasal           |   m |  mg |       |   n |     |     - |   - |  ng |   N |      |
 Trill           |   B |     |       |   r |     |       |     |     |   R |      |
-Tap, flap       |     |   - |       |   P |     |     [ |     |     |     |      |
+Tap, flap       |     |   v'|       |   P |     |     [ |     |     |     |      |
 Fricative       | F V | f v | th TH | s z | S Z | $   2 | - - | x - | X K | h' ??| h H
 Lateral fric.   |     |     |       | - - |     |       |     |     |     |      |
 Approximate     |     |   - |       |   J |     |     { |   j |   uq|     |      |
@@ -60,6 +60,7 @@ Open           | a OE|     |     |     | A D
 - D (rounded back open)
 #### Pulmonic consonants
 - mg (voiced labiodental nasal)
+- v' (voiced labiodental tap/flap)
 - th (dental fricative)
 - TH (voiced dental fricative)
 - P (voiced alveolar tap/flap)
