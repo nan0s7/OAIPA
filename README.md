@@ -20,7 +20,7 @@ Close-mid      | e  0  |     | 9   - |     | -  o
 Half open-mid  |       |     |    -  |     |
 Open-mid       | E  oe |     | 3   - |     | ^  O
 Half open      |    ae |     | 6     |     |
-Open           | a  OE |     |       |     | A  D
+Open           | a  OE |     |       |     | A  A`
 
 #### Diacritics
 Description | Example | Description | Example | Description | Example
@@ -78,7 +78,7 @@ Rhoticity (s) | a(s)       | Retracted tongue root (>) | e(>)           |
 - ^ (back open-mid)
 - O [capital o] (rounded back open-mid)
 - A (back open)
-- D (rounded back open)
+- A` (rounded back open)
 #### Pulmonic consonants
 - mg (voiced labiodental nasal)
 - v` (voiced labiodental tap/flap)
