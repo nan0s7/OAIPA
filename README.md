@@ -10,7 +10,7 @@ Tap, flap       |       |    v` |       |    P  |       |    [  |       |       
 Fricative       | F  V  | f  v  | T  T` | s  z  | S  Z  | $  2  | -  -  | x  x` | X  K  | h- ?? | h  H
 Lateral fric.   |       |       |       | 1  1` |       |       |       |       |       |       |
 Approximate     |       |    u` |       |    J  |       |    {  |    j  |    uq |       |       |
-Lateral approx. |       |       |       |    l  |       |    -  |    -  |    L  |       |       |
+Lateral approx. |       |       |       |    l  |       |    ll |    -  |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
@@ -60,6 +60,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - T` (voiced dental fricative)
 - 1` (voiced alveolar lateral fricative)
 - nn (voiced retroflex nasal)
+- jj (voiced retroflex lateral approximant)
 - nj (voiced palatal nasal)
 - x` (voiced velar fricative)
 #### Other sounds/symbols
