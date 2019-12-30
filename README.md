@@ -31,10 +31,10 @@ Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
 Close          | i  y  |       | i- u- |       | uu u
 Half close-mid |       | i" y" |       |    U  |
-Close-mid      | e  0  |       | 9  -  |       | -  o
-Half open-mid  |       |       |    -  |       |
-Open-mid       | E  oe |       | 3  3" |       | ^  O
-Half open      |    ae |       | 6     |       |
+Close-mid      | e  eE |       | ee o" |       | UU o
+Half open-mid  |       |       |    e" |       |
+Open-mid       | E  oe |       | AE EU |       | AA O
+Half open      |    ae |       |    a" |       |
 Open           | a  OE |       |       |       | A  A"
 
 #### Other symbols
@@ -112,26 +112,28 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 #### Vowels
 - i" (front-central half close)
 - y" (rounded front-central half close)
-- 3" (rounded central open-mid)
+- ~~3" (rounded central open-mid)~~
+- ~~UU (back close-mid)~~
+- ~~AO (back open-mid)~~
 #### Other sounds/symbols
 - hw (voiceless labial-velar fricative)
 
 ### Changed based on the appearance of the Latin alphabet counterparts
 #### Vowels
-- 0 [zero] (front close-mid rounded vowel)
-- E (front open-mid)
+- ~~0 [zero] (front close-mid rounded vowel)~~
+- ~~E (front open-mid)~~
 - oe (rounded front open-mid)
 - ae (front half open)
 - OE (rounded front open)
 - i- (central close)
 - u- (rounded central close)
-- 9 (central close-mid)
-- (central half open-mid)
-- 3 (central open-mid)
-- 6 (central half open)
+- ~~9 (central close-mid)~~
+- ~~(central half open-mid)~~
+- ~~3 (central open-mid)~~
+- ~~6 (central half open)~~
 - uu (back close)
 - U (near-back near-close)
-- ^ (back open-mid)
+- ~~^ (back open-mid)~~
 - O [capital o] (rounded back open-mid)
 - A (back open)
 - A" (rounded back open)
