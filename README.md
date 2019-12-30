@@ -12,11 +12,11 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
-Tap, flap       |       |    v" |       |    r" |       |    -  |       |       |       |       |
-Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  X" | h- ?? | h  H
+Tap, flap       |       |    v" |       |    r" |       |    Rl |       |       |       |       |
+Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
 Approximate     |       |    w" |       |    R  |       |    R" |    j  |    W" |       |       |
-Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
+Lateral approx. |       |       |       |    l  |       |    l" |    J  |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
@@ -74,11 +74,16 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - T (retroflex plosive)
 - D (voiced retroflex plosive)
 - nn (voiced retroflex nasal)
+- Rl (voiced retroflex tap/flap)
+- S" (retroflex fricative)
+- Z" (voiced retroflex fricative)
 - R" (voiced retroflex approximant)
 - l" (voiced retroflex lateral approximant)
 - gj (voiced palatal plosive)
 - nj (voiced palatal nasal)
-- j" (voiced palatal lateral approximant)
+- SJ (palatal fricative)
+- ZJ (voiced palatal fricative)
+- J (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
 - W" (voiced velar approximant)
 - rX (voiced uvular trill)
@@ -114,8 +119,6 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - [ (voiced retroflex tap/flap)
-- S" (retroflex fricative)
-- Z" (voiced retroflex fricative)
 - { (voiced retroflex approximant)
 - X (uvular fricative)
 - h- (pharyngeal fricative)
