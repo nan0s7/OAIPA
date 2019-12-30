@@ -36,11 +36,11 @@ Description | Example | Description | Example | Description | Example
 Voiceless       | n(v), d(v) | Breathy voiced              | b(,,), a(,V) | Dental             | t(d), d(D)
 Voiced          | s(V), t(V) | Creaky voiced               | b(~~), a(~V) | Apical             | t(a), d(A)
 Aspirated       | t(h), d(h) | Linguolabial                | t(m),  d(M)  | Laminal            | t(L), d(L)
-More rounded    |            | Labialised                  | t(w),  d(W)  | Nasalised          | e~
-Less rounded    |            | Palatalised                 | t(j),  d(J)  | Nasal release      | d(n), d(N)
+More rounded    | O(R)       | Labialised                  | t(w),  d(W)  | Nasalised          | e~
+Less rounded    | O(r)       | Palatalised                 | t(j),  d(J)  | Nasal release      | d(n), d(N)
 Advanced        | u(+)       | Velarised                   | t(y),  d(Y)  | Lateral release    | d(l)
-Retracted       |            | Pharyngealised              | t(?),  d(?)  | No audible release | d(-)
-Centralised     | e(..)      | Velarised or pharyngealised | l(~)         | Not diagraph       | t*H
+Retracted       | e(_)       | Pharyngealised              | t(?),  d(?)  | No audible release | d(-)
+Centralised     | e(..)      | Velarised or pharyngealised | l(~)         | Not a diagraph     | t*H
 Mid-centralised | e(x)       | Raised                      | e(T)         |                    |
 Syllabic        | n(.)       | Lowered                     | e(t)         |                    |
 Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |                    |
