@@ -9,7 +9,7 @@ Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng 
 Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
 Tap, flap       |       |    v" |       |    R  |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
-Lateral fric.   |       |       |       | 1  1" |       |       |       |       |       |       |
+Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
 Approximate     |       |    w" |       |    J  |       |    {  |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
@@ -61,7 +61,8 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - b" (voiced bilabial trill)
 - W" (voiced labiodental approximant)
 - T" (voiced dental fricative)
-- 1" (voiced alveolar lateral fricative)
+- hL (alveolar lateral fricative)
+- HL (voiced alveolar lateral fricative)
 - nn (voiced retroflex nasal)
 - l" (voiced retroflex lateral approximant)
 - nj (voiced palatal nasal)
@@ -99,7 +100,6 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - v" (voiced labiodental tap/flap)
 - T (dental fricative)
 - R (voiced alveolar tap/flap)
-- 1 (alveolar lateral fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
