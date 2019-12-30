@@ -6,7 +6,7 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | D  D" | c  j- | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
-Trill           |    B  |       |       |    r  |       |       |       |       |    R  |       |
+Trill           |    b" |       |       |    r  |       |       |       |       |    R  |       |
 Tap, flap       |       |    v" |       |    P  |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
 Lateral fric.   |       |       |       | 1  1" |       |       |       |       |       |       |
@@ -16,7 +16,7 @@ Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
 Close          | i  y  |       | i- u- |       | uu u
-Half close-mid |       | I  Y  |       |    U  |
+Half close-mid |       | i" y" |       |    U  |
 Close-mid      | e  0  |       | 9  -  |       | -  o
 Half open-mid  |       |       |    -  |       |
 Open-mid       | E  oe |       | 3  3" |       | ^  O
@@ -48,8 +48,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - //  //, /  /, [  ], <  >
 
 ### Unchanged besides size and or font
-- I, Y
-- B, G, N, L, R
+- G, N, L, R
 
 ### Changed based on the sound of their Latin alphabet counterparts
 - F (bilabial fricative)
@@ -58,6 +57,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
 #### Pulmonic consonants
+- b" (voiced bilabial trill)
 - T" (voiced dental fricative)
 - 1" (voiced alveolar lateral fricative)
 - nn (voiced retroflex nasal)
@@ -66,6 +66,8 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - j" (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
 #### Vowels
+- i" (front-central half close)
+- y" (rounded front-central half close)
 - 3" (rounded central open-mid)
 #### Other sounds/symbols
 - hw (voiceless labial-velar fricative)
