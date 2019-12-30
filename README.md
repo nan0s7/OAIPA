@@ -10,7 +10,7 @@ Trill           |    b" |       |       |    r  |       |       |       |       
 Tap, flap       |       |    v" |       |    P  |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
 Lateral fric.   |       |       |       | 1  1" |       |       |       |       |       |       |
-Approximate     |       |    u" |       |    J  |       |    {  |    j  |    uq |       |       |
+Approximate     |       |    u" |       |    J  |       |    {  |    j  |    W  |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
@@ -65,6 +65,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - nj (voiced palatal nasal)
 - j" (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
+- W (voiced velar approximant)
 #### Vowels
 - i" (front-central half close)
 - y" (rounded front-central half close)
@@ -104,11 +105,10 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - D (retroflex plosive)
 - D" (voiced retroflex plosive)
 - [ (voiced retroflex tap/flap)
-- $ (retroflex fricative)
-- 2 (voiced retroflex fricative)
+- S" (retroflex fricative)
+- Z" (voiced retroflex fricative)
 - { (voiced retroflex approximant)
 - j- (voiced palatal plosive)
-- uq (voiced velar approximant)
 - X (uvular fricative)
 - K (voiced uvular fricative)
 - h- (pharyngeal fricative)
