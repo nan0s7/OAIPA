@@ -6,8 +6,8 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | D  D" | c  j- | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
-Trill           |    b" |       |       |    r  |       |       |       |       |    R  |       |
-Tap, flap       |       |    v" |       |    P  |       |    [  |       |       |       |       |
+Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
+Tap, flap       |       |    v" |       |    R  |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
 Lateral fric.   |       |       |       | 1  1" |       |       |       |       |       |       |
 Approximate     |       |    w" |       |    J  |       |    {  |    j  |    W" |       |       |
@@ -48,7 +48,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - //  //, /  /, [  ], <  >
 
 ### Unchanged besides size and or font
-- G, N, L, R
+- G, N, L
 
 ### Changed based on the sound of their Latin alphabet counterparts
 - M (voiced labiodental nasal)
@@ -68,6 +68,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - j" (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
 - W" (voiced velar approximant)
+- rX (voiced uvular trill)
 #### Vowels
 - i" (front-central half close)
 - y" (rounded front-central half close)
@@ -97,7 +98,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 #### Pulmonic consonants
 - v" (voiced labiodental tap/flap)
 - T (dental fricative)
-- P (voiced alveolar tap/flap)
+- R (voiced alveolar tap/flap)
 - 1 (alveolar lateral fricative)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
