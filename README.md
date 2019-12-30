@@ -10,7 +10,7 @@ Trill           |    b" |       |       |    r  |       |       |       |       
 Tap, flap       |       |    v" |       |    P  |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
 Lateral fric.   |       |       |       | 1  1" |       |       |       |       |       |       |
-Approximate     |       |    u" |       |    J  |       |    {  |    j  |    W  |       |       |
+Approximate     |       |    w" |       |    J  |       |    {  |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
@@ -51,6 +51,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - G, N, L, R
 
 ### Changed based on the sound of their Latin alphabet counterparts
+- M (voiced labiodental nasal)
 - F (bilabial fricative)
 - V (voiced bilabial fricative)
 - ng (voiced velar nasal)
@@ -58,6 +59,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
 #### Pulmonic consonants
 - b" (voiced bilabial trill)
+- W" (voiced labiodental approximant)
 - T" (voiced dental fricative)
 - 1" (voiced alveolar lateral fricative)
 - nn (voiced retroflex nasal)
@@ -65,7 +67,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - nj (voiced palatal nasal)
 - j" (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
-- W (voiced velar approximant)
+- W" (voiced velar approximant)
 #### Vowels
 - i" (front-central half close)
 - y" (rounded front-central half close)
@@ -93,9 +95,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - A (back open)
 - A" (rounded back open)
 #### Pulmonic consonants
-- M (voiced labiodental nasal)
 - v" (voiced labiodental tap/flap)
-- u" (voiced labiodental approximant)
 - T (dental fricative)
 - P (voiced alveolar tap/flap)
 - 1 (alveolar lateral fricative)
