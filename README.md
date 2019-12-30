@@ -5,7 +5,7 @@ Version 0.3
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | D  D" | c  j- | k  g  | q  G  |       | ?
-Nasal           |    m  |    mg |       |    n  |       |    nn |    nj |    ng |    N  |       |
+Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    B  |       |       |    r  |       |       |       |       |    R  |       |
 Tap, flap       |       |    v" |       |    P  |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
@@ -90,7 +90,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - A (back open)
 - A" (rounded back open)
 #### Pulmonic consonants
-- mg (voiced labiodental nasal)
+- M (voiced labiodental nasal)
 - v" (voiced labiodental tap/flap)
 - u" (voiced labiodental approximant)
 - T (dental fricative)
