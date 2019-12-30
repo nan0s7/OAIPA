@@ -30,7 +30,7 @@ table here
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
 Close          | i  y  |       | i- u- |       | uu u
-Half close-mid |       | i" y" |       |    U  |
+Half close-mid |       | i" Y  |       |    U  |
 Close-mid      | e  eE |       | ee o" |       | UU o
 Half open-mid  |       |       |    e" |       |
 Open-mid       | E  oe |       | AE EU |       | AA O
