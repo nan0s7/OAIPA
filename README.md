@@ -1,16 +1,21 @@
 # OAIPA
 An open source IPA (International Phonetic Alphabet) for the ASCII character set.
-Version 0.3
+Version 0.4.
+
+Main goals:
+- doesn't look overly cluttered (compared to other ASCII IPA assignments)
+- covers most if not all of the IPA
+- one doesn't need to learn the sounds of arbitrary symbols like @, #, etc.
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p  b  |       |       | t  d  |       | T  D  | c  j- | k  g  | q  G  |       | ?
+Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
-Tap, flap       |       |    v" |       |    R  |       |    [  |       |       |       |       |
+Tap, flap       |       |    v" |       |    r" |       |    [  |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
-Approximate     |       |    w" |       |    J  |       |    {  |    j  |    W" |       |       |
+Approximate     |       |    w" |       |    R  |       |    {  |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
@@ -35,7 +40,7 @@ More rounded    |            | Labialised                  | t(w),  d(W)  | Nasa
 Less rounded    |            | Palatalised                 | t(j),  d(J)  | Nasal release      | d(n), d(N)
 Advanced        | u(+)       | Velarised                   | t(y),  d(Y)  | Lateral release    | d(l)
 Retracted       |            | Pharyngealised              | t(?),  d(?)  | No audible release | d(-)
-Centralised     | e(..)      | Velarised or pharyngealised | l(~)         |                    |
+Centralised     | e(..)      | Velarised or pharyngealised | l(~)         | Not diagraph       | t*H
 Mid-centralised | e(x)       | Raised                      | e(T)         |                    |
 Syllabic        | n(.)       | Lowered                     | e(t)         |                    |
 Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |                    |
@@ -55,6 +60,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - F (bilabial fricative)
 - V (voiced bilabial fricative)
 - th (dental fricative)
+- R (voiced alveolar approximant)
 - ng (voiced velar nasal)
 
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
@@ -62,12 +68,14 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - b" (voiced bilabial trill)
 - W" (voiced labiodental approximant)
 - tH (voiced dental fricative)
+- r" (voiced alveolar tap/flap)
 - hL (alveolar lateral fricative)
 - HL (voiced alveolar lateral fricative)
 - T (retroflex plosive)
 - D (voiced retroflex plosive)
 - nn (voiced retroflex nasal)
 - l" (voiced retroflex lateral approximant)
+- gj (voiced palatal plosive)
 - nj (voiced palatal nasal)
 - j" (voiced palatal lateral approximant)
 - x" (voiced velar fricative)
@@ -102,15 +110,12 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - A" (rounded back open)
 #### Pulmonic consonants
 - v" (voiced labiodental tap/flap)
-- R (voiced alveolar tap/flap)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
-- J (voiced alveolar approximant)
 - [ (voiced retroflex tap/flap)
 - S" (retroflex fricative)
 - Z" (voiced retroflex fricative)
 - { (voiced retroflex approximant)
-- j- (voiced palatal plosive)
 - X (uvular fricative)
 - h- (pharyngeal fricative)
 - ?? (voiced pharyngeal fricative)
