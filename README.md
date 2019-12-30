@@ -7,12 +7,6 @@ Main goals:
 - covers most if not all of the IPA
 - shouldn't have a need to learn the sounds of arbitrary symbols like @, #, etc.
 
-There are currently:
-- 15 capitalised versions of letters that represent a similar sound
-- 19 letter-letter diagraphs
-- 18 letter-symbol diagraphs
-- 7 non-letter characters for sounds (i.e. numbers)
-
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
@@ -31,9 +25,9 @@ Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
 Close          | i  y  |       | i- u- |       | uu u
 Half close-mid |       | i" Y  |       |    U  |
-Close-mid      | e  eE |       | ee o" |       | UU o
+Close-mid      | e  ee |       | y" o- |       | UU o
 Half open-mid  |       |       |    e" |       |
-Open-mid       | E  oe |       | AE EU |       | AA O
+Open-mid       | E  oe |       | AE YY |       | AA O
 Half open      |    ae |       |    a" |       |
 Open           | a  OE |       |       |       | A  A"
 
