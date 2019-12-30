@@ -12,10 +12,10 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
-Tap, flap       |       |    v" |       |    r" |       |    [  |       |       |       |       |
+Tap, flap       |       |    v" |       |    r" |       |    -  |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
-Approximate     |       |    w" |       |    R  |       |    {  |    j  |    W" |       |       |
+Approximate     |       |    w" |       |    R  |       |    -  |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
