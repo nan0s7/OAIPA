@@ -5,7 +5,7 @@ Version 0.4.
 Main goals:
 - doesn't look overly cluttered (compared to other ASCII IPA assignments)
 - covers most if not all of the IPA
-- one doesn't need to learn the sounds of arbitrary symbols like @, #, etc.
+- shouldn't have a need to learn the sounds of arbitrary symbols like @, #, etc.
 
 There are currently:
 - 15 capitalised versions of letters that represent a similar sound
@@ -160,14 +160,6 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - || (major intonation break)
 - . (syllable break)
 - _ (linking without a break)
-#### Diacritics
-- (h) (aspirated)
-- (w) (labialised)
-- (?) (pharyngealised)
-- (~) (velarised or pharyngealised)
-- (T) (raised)
-- (t) (lowered)
-- ~ (nasalised)
 #### Tone levels
 - '' (top level tone)
 - ' (high level tone)
