@@ -4,11 +4,11 @@ Version 0.3
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p  b  |       |       | t  d  |       | D  D" | c  j- | k  g  | q  G  |       | ?
+Plosive         | p  b  |       |       | t  d  |       | T  D  | c  j- | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
 Tap, flap       |       |    v" |       |    R  |       |    [  |       |       |       |       |
-Fricative       | F  V  | f  v  | T  T" | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  K  | h- ?? | h  H
+Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
 Approximate     |       |    w" |       |    J  |       |    {  |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
@@ -54,15 +54,18 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - M (voiced labiodental nasal)
 - F (bilabial fricative)
 - V (voiced bilabial fricative)
+- th (dental fricative)
 - ng (voiced velar nasal)
 
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
 #### Pulmonic consonants
 - b" (voiced bilabial trill)
 - W" (voiced labiodental approximant)
-- T" (voiced dental fricative)
+- tH (voiced dental fricative)
 - hL (alveolar lateral fricative)
 - HL (voiced alveolar lateral fricative)
+- T (retroflex plosive)
+- D (voiced retroflex plosive)
 - nn (voiced retroflex nasal)
 - l" (voiced retroflex lateral approximant)
 - nj (voiced palatal nasal)
@@ -70,6 +73,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - x" (voiced velar fricative)
 - W" (voiced velar approximant)
 - rX (voiced uvular trill)
+- X" (voiced uvular fricative)
 #### Vowels
 - i" (front-central half close)
 - y" (rounded front-central half close)
@@ -98,20 +102,16 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - A" (rounded back open)
 #### Pulmonic consonants
 - v" (voiced labiodental tap/flap)
-- T (dental fricative)
 - R (voiced alveolar tap/flap)
 - S (postalveolar fricative)
 - Z (voiced postalveolar fricative)
 - J (voiced alveolar approximant)
-- D (retroflex plosive)
-- D" (voiced retroflex plosive)
 - [ (voiced retroflex tap/flap)
 - S" (retroflex fricative)
 - Z" (voiced retroflex fricative)
 - { (voiced retroflex approximant)
 - j- (voiced palatal plosive)
 - X (uvular fricative)
-- K (voiced uvular fricative)
 - h- (pharyngeal fricative)
 - ?? (voiced pharyngeal fricative)
 - ? (glottal stop/plosive)
