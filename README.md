@@ -15,7 +15,7 @@ Trill           |    b" |       |       |    r  |       |       |       |       
 Tap, flap       |       |    v" |       |    r" |       |    -  |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | -  -  | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
-Approximate     |       |    w" |       |    R  |       |    -  |    j  |    W" |       |       |
+Approximate     |       |    w" |       |    R  |       |    R" |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    j" |    L  |       |       |
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
@@ -74,6 +74,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - T (retroflex plosive)
 - D (voiced retroflex plosive)
 - nn (voiced retroflex nasal)
+- R" (voiced retroflex approximant)
 - l" (voiced retroflex lateral approximant)
 - gj (voiced palatal plosive)
 - nj (voiced palatal nasal)
