@@ -7,6 +7,12 @@ Main goals:
 - covers most if not all of the IPA
 - one doesn't need to learn the sounds of arbitrary symbols like @, #, etc.
 
+There are currently:
+- 15 capitalised versions of letters that represent a similar sound
+- 19 letter-letter diagraphs
+- 18 letter-symbol diagraphs
+- 7 non-letter characters for sounds (i.e. numbers)
+
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
@@ -18,6 +24,9 @@ Lateral fric.   |       |       |       | hL HL |       |       |       |       
 Approximate     |       |    w" |       |    R  |       |    R" |    j  |    W" |       |       |
 Lateral approx. |       |       |       |    l  |       |    l" |    J  |    L  |       |       |
 
+#### Non-pulmonic consonants
+table here
+
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            | :---: | :---: | :---: | :---: | :---:
 Close          | i  y  |       | i- u- |       | uu u
@@ -27,6 +36,18 @@ Half open-mid  |       |       |    -  |       |
 Open-mid       | E  oe |       | 3  3" |       | ^  O
 Half open      |    ae |       | 6     |       |
 Open           | a  OE |       |       |       | A  A"
+
+#### Other symbols
+- hw (voiceless labial-velar fricative)
+- w (voiced labial-velar approximant)
+- (voiced labial-palatal approximant)
+- HH (voiceless epiglottal fricative) [to be changed]
+- (voiced epiglottal fricative)
+- (epiglottal plosive)
+- (alveolo-palatal fricatives)
+- ] (voiced alveolar lateral flap)
+- (simultaneous S and X)
+- ) (afficate and double articulation marker)
 
 #### Diacritics
 In situations where information is clear and uncluttered, the closing parenthesis is not mandatory.
