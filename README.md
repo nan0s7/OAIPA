@@ -11,7 +11,7 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
-Trill           |    R  |       |       |    r  |       |       |       |       |    rX |       |
+Trill           |    B  |       |       |    r  |       |       |       |       |    rX |       |
 Tap, flap       |       |    v" |       |    r" |       |    Rl |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
