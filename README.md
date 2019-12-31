@@ -12,7 +12,7 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
 Trill           |    B  |       |       |    r  |       |       |       |       |    rX |       |
-Tap, flap       |       |    v" |       |    r" |       |    Rl |       |       |       |       |
+Tap, flap       |       |    v" |       |    r- |       |    RL |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
 Approximate     |       |    w" |       |    R  |       |    R" |    j  |    W" |       |       |
@@ -60,6 +60,33 @@ Mid-centralised | e(x)       | Raised                      | e(T)         |     
 Syllabic        | n(.)       | Lowered                     | e(t)         |                    |
 Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |                    |
 Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |                    |
+
+#### Suprasegmentals
+- ' (primary stress)
+- , (secondary stress)
+- : (long)
+- ; (half-long)
+- = (extra short)
+- | (minor foot break)
+- || (major intonation break)
+- . (syllable break)
+- _ (linking without a break)
+#### Tone levels
+- '' (top level tone)
+- ' (high level tone)
+- "-" [without quotes; a single dash] (mid level tone)
+- , (low level tone)
+- ,, (bottom level tone)
+- ^| (upstep) or? |'
+- v| (downstep) or? |,
+#### Tone contours
+- v (rising contour tone)
+- ^ (falling contour tone)
+- -' (high rising contour tone)
+- '- (low rising contour tone)
+- ~ (rising-falling contour tone)
+- ">/" or "/>" [without quotes or spaces] (global rise) or? /'
+- ">\ or \ >" [without quotes or spaces] (global fall) or? \ ,
 
 ### Unchanged from IPA
 - a, e, i, o, u, y
@@ -145,29 +172,3 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - HH (voiceless epiglottal fricative)
 - ] (voiced alveolar lateral flap)
 - ) (affricate or double articulation marker, placed after two sounds)
-#### Suprasegmentals
-- ' (primary stress)
-- , (secondary stress)
-- : (long vowel)
-- ; (half-long vowel)
-- = (extra short vowel)
-- | (minor foot break)
-- || (major intonation break)
-- . (syllable break)
-- _ (linking without a break)
-#### Tone levels
-- '' (top level tone)
-- ' (high level tone)
-- "-" [without quotes; a single dash] (mid level tone)
-- , (low level tone)
-- ,, (bottom level tone)
-- ^| (upstep) or? |'
-- v| (downstep) or? |,
-#### Tone contours
-- v (rising contour tone)
-- ^ (falling contour tone)
-- -' (high rising contour tone)
-- '- (low rising contour tone)
-- ~ (rising-falling contour tone)
-- ">/" or "/>" [without quotes or spaces] (global rise) or? /'
-- ">\ or \ >" [without quotes or spaces] (global fall) or? \ ,
