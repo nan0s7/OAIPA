@@ -11,7 +11,7 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
-Trill           |    b" |       |       |    r  |       |       |       |       |    rX |       |
+Trill           |    R  |       |       |    r  |       |       |       |       |    rX |       |
 Tap, flap       |       |    v" |       |    r" |       |    Rl |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
@@ -68,7 +68,7 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 - //  //, /  /, [  ], <  >
 
 ### Unchanged besides size and or font
-- G, N, L
+- B, G, N, L
 
 ### Changed based on the sound of their Latin alphabet counterparts
 - M (voiced labiodental nasal)
@@ -80,7 +80,6 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 
 ### Changed based on the sound in the IPA and the existing letter in OAIPA
 #### Pulmonic consonants
-- b" (voiced bilabial trill)
 - W" (voiced labiodental approximant)
 - tH (voiced dental fricative)
 - r" (voiced alveolar tap/flap)
