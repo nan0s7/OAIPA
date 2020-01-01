@@ -11,8 +11,8 @@ Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar 
 ---             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
 Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
-Trill           |    B  |       |       |    r  |       |       |       |       |    rX |       |
-Tap, flap       |       |    v" |       |    r- |       |    RL |       |       |       |       |
+Trill           |    B  |       |       |    rr |       |       |       |       |    rX |       |
+Tap, flap       |       |    v" |       |    r  |       |    RL |       |       |       |       |
 Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
 Approximate     |       |    w" |       |    R  |       |    R" |    j  |    W" |       |       |
@@ -109,7 +109,8 @@ Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |     
 #### Pulmonic consonants
 - W" (voiced labiodental approximant)
 - tH (voiced dental fricative)
-- r" (voiced alveolar tap/flap)
+- rr (voiced alveolar trill)
+- r (voiced alveolar tap/flap)
 - hL (alveolar lateral fricative)
 - HL (voiced alveolar lateral fricative)
 - T (retroflex plosive)
