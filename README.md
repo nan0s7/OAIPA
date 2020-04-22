@@ -22,14 +22,14 @@ Lateral approx. |       |       |       |    l  |       |    l" |    J  |    L  
 table here
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
----            | :---: | :---: | :---: | :---: | :---:
-Close          | i  y  |       | i- u- |       | uu u
-Half close-mid |       | i" Y  |       |    U  |
-Close-mid      | e  ee |       | y" o- |       | UU o
-Half open-mid  |       |       |    e" |       |
-Open-mid       | E  oe |       | AE YY |       | AA O
-Half open      |    ae |       |    a" |       |
-Open           | a  OE |       |       |       | A  A"
+---            |  :---:  |  :---:  |  :---:  |  :---:  |  :---:
+Close          | i   i"  |         | i-  i-" |         | u"  u
+Half close-mid |         | y   y"  |         |     uu  |
+Close-mid      | e   e"  |         | e-  e-" |         | o"  o
+Half open-mid  |         |         |     '   |         |
+Open-mid       | oe" oe  |         | ee  ee" |         | oo" oo
+Half open      |     ae  |         |     yy  |         |
+Open           | a   a"  |         |         |         | aa  aa"
 
 #### Other symbols
 - hw (voiceless labial-velar fricative)
@@ -62,8 +62,8 @@ Non-syllabic    | e(n)       | Advanced tongue root        | e(<)         |     
 Rhoticity       | a(s)       | Retracted tongue root       | e(>)         |                    |
 
 #### Suprasegmentals
-- ' (primary stress)
-- , (secondary stress)
+- , (primary stress)
+- ,, (secondary stress)
 - : (long)
 - ; (half-long)
 - = (extra short)
