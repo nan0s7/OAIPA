@@ -28,7 +28,7 @@ Half close-mid |         | y   y"  |         |     uu  |
 Close-mid      | e   e"  |         | e-  e-" |         | o"  o
 Half open-mid  |         |         |     '   |         |
 Open-mid       | oe" oe  |         | ee  ee" |         | oo" oo
-Half open      |     ae  |         |     yy  |         |
+Half open      |     ae  |         |     a-  |         |
 Open           | a   a"  |         |         |         | aa  aa"
 
 #### Other symbols
