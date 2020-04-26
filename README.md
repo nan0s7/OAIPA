@@ -8,15 +8,15 @@ Main goals:
 - shouldn't have a need to learn the sounds of arbitrary symbols like @, #, etc.
 
 Pulmonic Consonants | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal
----             | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Plosive         | p  b  |       |       | t  d  |       | T  D  | c  gj | k  g  | q  G  |       | ?
-Nasal           |    m  |    M  |       |    n  |       |    nn |    nj |    ng |    N  |       |
-Trill           |    B  |       |       |    rr |       |       |       |       |    rX |       |
-Tap, flap       |       |    v" |       |    r  |       |    RL |       |       |       |       |
-Fricative       | F  V  | f  v  | th tH | s  z  | S  Z  | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
-Lateral fric.   |       |       |       | hL HL |       |       |       |       |       |       |
-Approximate     |       |    w" |       |    R  |       |    R" |    j  |    W" |       |       |
-Lateral approx. |       |       |       |    l  |       |    l" |    J  |    L  |       |       |
+---             | :---: | :---: |  :---:  |  :---:  |  :---:  | :---: | :---: | :---: | :---: | :---: | :---:
+Plosive         | p  b  |       |         | t   d   |         | T  D  | c  gj | k  g  | q  G  |       | ?
+Nasal           |    m  |    M  |         |     n   |         |    nn |    nj |    ng |    N  |       |
+Trill           |    bb |       |         |     rr  |         |       |       |       |    rX |       |
+Tap, flap       |       |    v" |         |     r   |         |    RL |       |       |       |       |
+Fricative       | ff vv | f  v  | th  th" | s   z   | sh  sh" | S" Z" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
+Lateral fric.   |       |       |         | hl  hl" |         |       |       |       |       |       |
+Approximate     |       |    w" |         |     r"  |         |    R" |    j  |    W" |       |       |
+Lateral approx. |       |       |         |     l   |         |    ll |    J  |    L  |       |       |
 
 #### Non-pulmonic consonants
 table here
