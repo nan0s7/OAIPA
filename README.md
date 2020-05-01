@@ -13,10 +13,10 @@ Plosive         | p  b  |       |         | t   d   |         | T   D   | c  gj 
 Nasal           |    m  |    mg |         |     n   |         |     nn  |    nj |    ng |    N  |       |
 Trill           |    bb |       |         |     rr  |         |         |       |       |    rX |       |
 Tap, flap       |       |    v" |         |     r   |         |     RL  |       |       |       |       |
-Fricative       | ff vv | f  v  | th  th" | s   z   | sh  sh" | sz  sz" | SJ ZJ | x  x" | X  X" | h- ?? | h  H
+Fricative       | ff vv | f  v  | th  th" | s   z   | sh  zh  | sz  zz  | sj zj | x  x" | X  X" | h- ?? | h  H
 Lateral fric.   |       |       |         | hl  hl" |         |         |       |       |       |       |
 Approximate     |       |    w" |         |     r"  |         |     R"  |    j  |    W" |       |       |
-Lateral approx. |       |       |         |     l   |         |     ll  |    J  |    L  |       |       |
+Lateral approx. |       |       |         |     l   |         |     ll  |    jj |    L  |       |       |
 
 #### Non-pulmonic consonants
 table here
