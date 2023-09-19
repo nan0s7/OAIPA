@@ -23,11 +23,11 @@ table here
 
 Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            |  :---:  |  :---:  |  :---:  |  :---:  |  :---:
-Close          | i   i"  |         | i-  i-" |         | u"  u
+Close          | i   i"  |         | i-  i-" |         | u  u"
 Half close-mid |         | y   y"  |         |     uu  |
 Close-mid      | e   e"  |         | e-  e-" |         | o"  o
 Half open-mid  |         |         |     '   |         |
-Open-mid       | oe" oe  |         | ee  ee" |         | oo" oo
+Open-mid       | oe oe"  |         | ee  ee" |         | oo oo"
 Half open      |     ae  |         |     a-  |         |
 Open           | a   a"  |         |         |         | aa  aa"
 
