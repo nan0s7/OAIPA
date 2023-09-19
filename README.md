@@ -1,6 +1,6 @@
 # OAIPA
 An open source IPA (International Phonetic Alphabet) for the ASCII character set.
-Version 0.55.
+Version 0.56.
 
 Main goals:
 - doesn't look overly cluttered (compared to other ASCII IPA assignments)
