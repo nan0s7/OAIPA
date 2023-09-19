@@ -25,7 +25,7 @@ Vowels | Front | Fr. Cen. | Central | Cen. Bk. | Back
 ---            |  :---:  |  :---:  |  :---:  |  :---:  |  :---:
 Close          | i   i"  |         | i-  i-" |         | u  u"
 Half close-mid |         | y   y"  |         |     uu  |
-Close-mid      | e   e"  |         | e-  e-" |         | o"  o
+Close-mid      | e   e"  |         | e-  e-" |         | o  o"
 Half open-mid  |         |         |     '   |         |
 Open-mid       | oe oe"  |         | ee  ee" |         | oo oo"
 Half open      |     ae  |         |     a-  |         |
